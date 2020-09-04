@@ -672,3 +672,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-21.41.45:818][710]AssetCheck: New page: Asset Save: bpGameMode
 [2020.09.04-21.41.45:819][710]LogContentValidation: Display: Validating Blueprint /Game/bpGameMode.bpGameMode
 [2020.09.04-21.42.21:090][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.09.04-22.46.48:018][903]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.04-22.46.48:026][903]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.04-22.46.59:592][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
