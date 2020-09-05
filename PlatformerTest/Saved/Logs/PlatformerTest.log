@@ -707,3 +707,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.05-01.45.17:694][570]LogSlate: Window 'bpMyCharacter' being destroyed
 [2020.09.05-01.45.17:852][570]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
 [2020.09.05-01.45.17:852][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-01.45.37:173][631]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.09.05-01.45.38:215][631]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/Minimal_Default0606018D4A52970ABA5DB5BE6A17F4F7.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.09.05-01.45.39:233][631]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/Minimal_Default_BuiltData53BB1D254EC168B95F8B63BE843A14C2.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.09.05-01.45.39:484][631]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.05-01.45.39:484][631]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.09.05-01.45.39:484][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.09.05-01.45.43:771][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.09.05-01.45.44:023][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpMyCharacter" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/bpMyCharacter.uasset" SILENT=true
+[2020.09.05-01.45.44:147][852]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/bpMyCharacter0569F225402A943B4D4508AED4BA86EC.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/bpMyCharacter.uasset'
+[2020.09.05-01.45.44:177][852]AssetCheck: New page: Asset Save: bpMyCharacter
+[2020.09.05-01.45.44:177][852]LogContentValidation: Display: Validating Blueprint /Game/bpMyCharacter.bpMyCharacter
