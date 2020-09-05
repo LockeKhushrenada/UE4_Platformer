@@ -718,3 +718,55 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.05-01.45.44:147][852]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/bpMyCharacter0569F225402A943B4D4508AED4BA86EC.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/bpMyCharacter.uasset'
 [2020.09.05-01.45.44:177][852]AssetCheck: New page: Asset Save: bpMyCharacter
 [2020.09.05-01.45.44:177][852]LogContentValidation: Display: Validating Blueprint /Game/bpMyCharacter.bpMyCharacter
+[2020.09.05-01.46.31:639][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpGameMode.bpGameMode
+[2020.09.05-01.47.27:260][495]LogSlate: Took 0.059726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.09.05-01.48.06:599][133]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.05-01.48.18:320][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bpGameMode" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/bpGameMode.uasset" SILENT=true
+[2020.09.05-01.48.18:588][414]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/bpGameMode2A0089E24557E5DF5F5044B01C2F6EFF.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/bpGameMode.uasset'
+[2020.09.05-01.48.18:619][414]AssetCheck: New page: Asset Save: bpGameMode
+[2020.09.05-01.48.18:619][414]LogContentValidation: Display: Validating Blueprint /Game/bpGameMode.bpGameMode
+[2020.09.05-01.48.19:060][436]BlueprintLog: New page: Compile bpGameMode
+[2020.09.05-01.48.19:157][436]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.09.05-01.48.31:151][630]LogSlate: Window 'bpGameMode' being destroyed
+[2020.09.05-01.48.31:160][630]LogSlate: Window 'bpGameMode' being destroyed
+[2020.09.05-01.48.31:216][630]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.48.31:216][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.09.05-01.48.54:874][955]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.48.54:882][955]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.48.56:512][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.09.05-01.48.59:609][133]Cmd: DELETE
+[2020.09.05-01.48.59:609][133]Cmd: ACTOR DELETE
+[2020.09.05-01.49.00:363][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.05-01.49.00:489][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.09.05-01.49.00:894][133]LogEditorActor: Deleted 1 Actors (0.631 secs)
+[2020.09.05-01.49.01:646][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.09.05-01.49.02:116][181]Cmd: DELETE
+[2020.09.05-01.49.02:116][181]Cmd: ACTOR DELETE
+[2020.09.05-01.49.02:121][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.05-01.49.02:143][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.09.05-01.49.02:145][181]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.09.05-01.49.02:904][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.09.05-01.49.03:215][239]Cmd: DELETE
+[2020.09.05-01.49.03:215][239]Cmd: ACTOR DELETE
+[2020.09.05-01.49.03:218][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.09.05-01.49.03:242][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.09.05-01.49.03:243][239]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.09.05-01.49.11:376][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.09.05-01.50.23:115][535]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.50.23:130][535]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.50.57:014][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.09.05-01.50.57:165][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.09.05-01.50.57:194][356]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/Minimal_DefaultF9ECCF1A43DF1067B8B245A169BF0AAD.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.09.05-01.50.57:226][356]LogFileHelpers: Saving map 'Minimal_Default' took 0.083
+[2020.09.05-01.50.57:277][356]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/Minimal_Default_BuiltData049D528147B92A04F85ACB90C773FCEE.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.09.05-01.50.57:281][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myLevel" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/myLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.05-01.50.57:328][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.09.05-01.50.57:499][356]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/myLevel391911774F2EFBAF82A8518DC293F003.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Content/myLevel.umap'
+[2020.09.05-01.50.57:501][356]LogFileHelpers: Saving map 'myLevel' took 0.222
+[2020.09.05-01.50.57:531][356]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.05-01.50.57:531][356]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.09.05-01.50.57:531][356]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.09.05-01.50.57:531][356]LogContentValidation: Display: Validating World /Game/myLevel.myLevel
+[2020.09.05-01.51.19:966][104]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.51.19:974][104]LogSlate: Window 'Project Settings' being destroyed
+[2020.09.05-01.51.27:464][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
