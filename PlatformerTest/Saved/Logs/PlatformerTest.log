@@ -675,3 +675,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.04-22.46.48:018][903]LogSlate: Window 'Project Settings' being destroyed
 [2020.09.04-22.46.48:026][903]LogSlate: Window 'Project Settings' being destroyed
 [2020.09.04-22.46.59:592][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.09.05-01.40.39:549][637]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.09.05-01.41.04:345][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bpMyCharacter.bpMyCharacter
+[2020.09.05-01.41.11:620][466]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.1579 seconds. Added 125 classes and 0 folders.
+[2020.09.05-01.41.25:988][467]LogUObjectHash: Compacting FUObjectHashTables data took  53.32ms
+[2020.09.05-01.41.26:322][467]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.533
+[2020.09.05-01.41.26:350][467]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/bpMyCharacter] ([1] browsable assets)...
+[2020.09.05-01.41.26:350][467]OBJ SavePackage: Finished generating thumbnails for package [/Game/bpMyCharacter]
+[2020.09.05-01.41.26:705][467]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/bpMyCharacter_Auto1C386625041C18BE7535E9EAB3AAAE103.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_Platformer/PlatformerTest/Saved/Autosaves/Game/bpMyCharacter_Auto1.uasset'
+[2020.09.05-01.41.26:707][467]LogFileHelpers: Auto-saving content packages took 0.384
+[2020.09.05-01.42.56:475][488]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2020.09.05-01.42.57:171][488]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 81
+[2020.09.05-01.42.57:171][488]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2020.09.05-01.42.57:171][488]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2020.09.05-01.42.57:171][488]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.09.05-01.43.21:241][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.09.05-01.43.22:601][455]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.09.05-01.43.22:737][460]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2020.09.05-01.43.23:252][468]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.09.05-01.43.31:920][753]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.09.05-01.43.32:193][763]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.09.05-01.43.32:735][782]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.09.05-01.43.33:343][803]BlueprintLog: New page: Compile bpMyCharacter
+[2020.09.05-01.43.33:768][803]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.05-01.43.33:777][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.09.05-01.43.34:014][804]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.05-01.43.34:949][833]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.09.05-01.45.13:939][381]BlueprintLog: New page: Compile bpMyCharacter
+[2020.09.05-01.45.14:095][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.09.05-01.45.17:688][570]LogSlate: Window 'bpMyCharacter' being destroyed
+[2020.09.05-01.45.17:694][570]LogSlate: Window 'bpMyCharacter' being destroyed
+[2020.09.05-01.45.17:852][570]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.09.05-01.45.17:852][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
